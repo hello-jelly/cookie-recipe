@@ -1,0 +1,25 @@
+body {
+    background-image: url('images/background.jpg');
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: Helvetica;
+    color: teal;
+}
+img {
+    width: 800px;
+}
+
+main {
+    margin: 3rem;
+}
+
+header {
+    margin: 3rem 0;
+    text-align: center;
+}
+
+html {
+    font-size: 1.5rem;
+}
